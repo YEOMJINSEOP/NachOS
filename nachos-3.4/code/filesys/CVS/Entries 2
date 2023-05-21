@@ -1,0 +1,13 @@
+/Makefile/1.1.1.1/Wed Oct  2 17:49:19 2002//
+/directory.cc/1.1.1.1/Wed Oct  2 17:49:19 2002//
+/directory.h/1.1.1.1/Wed Oct  2 17:49:20 2002//
+/filehdr.cc/1.1.1.1/Wed Oct  2 17:49:20 2002//
+/filehdr.h/1.1.1.1/Wed Oct  2 17:49:20 2002//
+/filesys.cc/1.1.1.1/Wed Oct  2 17:49:20 2002//
+/filesys.h/1.1.1.1/Wed Oct  2 17:49:20 2002//
+/fstest.cc/1.1.1.1/Wed Oct  2 17:49:20 2002//
+/openfile.cc/1.1.1.1/Wed Oct  2 17:49:20 2002//
+/openfile.h/1.1.1.1/Wed Oct  2 17:49:20 2002//
+/synchdisk.cc/1.1.1.1/Wed Oct  2 17:49:20 2002//
+/synchdisk.h/1.1.1.1/Wed Oct  2 17:49:20 2002//
+D/test////
